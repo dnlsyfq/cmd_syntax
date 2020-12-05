@@ -34,3 +34,17 @@ mv my_file_1.txt my_file_2.txt my_directory/
 ```
 mv file_origin.txt file_renamed.txt
 ```
+
+### rm
+
+```
+rm unwanted_file.txt
+
+rm -r unwanted_directory
+
+
+````
+
+
+
+
